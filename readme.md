@@ -3,6 +3,9 @@
 
 This repository contains datasets related to our paper [BISINDO Hand-Sign Detection Using Transfer Learning](https://doi.org/10.1109/ICRAIE59459.2023.10468194).
 
+
+![alt text](https://github.com/saidachmadd/Indonesian-Sign-Language-BISINDO-Hand-Sign-Detection-Dataset/blob/master/assets/Indonesian%20Sign%20Language%20(BISINDO)%20Hand%20Sign%20Detection%20Dataset.png?raw=true)
+
 ## Data Collection: BISINDO Hand Sign
 The dataset contains 20 photos for each character (i.e., A-Z). All the images were taken using a smartphone camera (i.e., Redmi Note 10 Pro) and processed using Python OpenCV. 
 The same setting parameters are applied to all the photos (e.g., light intensity and distance). The total number of pictures in the dataset is 520 photos.
